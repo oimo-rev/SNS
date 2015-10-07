@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="8191" systemVersion="14F27" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="BYZ-38-t0r">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="8154"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="SNS" customModuleProvider="target" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="y3c-jy-aDJ"/>
+                        <viewControllerLayoutGuide type="bottom" id="wfy-db-euE"/>
+                    </layoutGuides>
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo.jpg" translatesAutoresizingMaskIntoConstraints="NO" id="Gke-lC-GFD">
+                                <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                            </imageView>
+                            <toolbar opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Le7-pU-EDF">
+                                <rect key="frame" x="0.0" y="556" width="600" height="44"/>
+                                <items>
+                                    <barButtonItem systemItem="action" id="a3F-aK-lZb">
+                                        <connections>
+                                            <action selector="showActivityView:" destination="BYZ-38-t0r" id="MGd-nm-ljD"/>
+                                        </connections>
+                                    </barButtonItem>
+                                </items>
+                            </toolbar>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="100-dU-2AY"/>
+                            <constraint firstItem="Le7-pU-EDF" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="2wa-l1-c5A"/>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="top" secondItem="8bC-Xf-vdC" secondAttribute="top" id="8hY-OE-RIc"/>
+                            <constraint firstAttribute="trailing" secondItem="Gke-lC-GFD" secondAttribute="trailing" id="D9x-Sj-FqX"/>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="bottom" secondItem="wfy-db-euE" secondAttribute="top" id="W8p-h8-TQw"/>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="trailing" secondItem="Le7-pU-EDF" secondAttribute="trailing" id="WaS-mW-u11"/>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="eoT-Ay-lEq"/>
+                            <constraint firstItem="Le7-pU-EDF" firstAttribute="leading" secondItem="8bC-Xf-vdC" secondAttribute="leading" id="hLO-rF-d02"/>
+                            <constraint firstItem="Gke-lC-GFD" firstAttribute="leading" secondItem="Le7-pU-EDF" secondAttribute="leading" id="u3Y-SO-qy7"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="imageView" destination="Gke-lC-GFD" id="ZvP-BF-fNz"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="338" y="337"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="photo.jpg" width="1500" height="1481"/>
+    </resources>
+</document>
