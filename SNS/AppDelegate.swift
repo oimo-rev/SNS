@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  SNS
 //
-//  Created by 図師ともみ on 2015/10/07.
+//  Created by oimo on 2015/10/07.
 //  Copyright © 2015年 FBC. All rights reserved.
 //
 
