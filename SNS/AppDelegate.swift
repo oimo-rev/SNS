@@ -6,6 +6,7 @@
 //  iimura comment
 //  iimura comment part2
 //  iimura bug
+//  iimura bug2
 //  Copyright © 2015年 FBC. All rights reserved.
 //
 
