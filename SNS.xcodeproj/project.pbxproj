@@ -195,6 +195,7 @@
 				TargetAttributes = {
 					BA20AE431BC4E5750016749D = {
 						CreatedOnToolsVersion = 7.0.1;
+						DevelopmentTeam = C3XQCRVD7N;
 					};
 					BA20AE571BC4E5750016749D = {
 						CreatedOnToolsVersion = 7.0.1;
@@ -402,10 +403,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = SNS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.fbc-web.SNS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Debug;
 		};
@@ -413,10 +417,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				INFOPLIST_FILE = SNS/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "jp.fbc-web.SNS";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 			};
 			name = Release;
 		};
@@ -487,6 +494,7 @@
 				BA20AE6E1BC4E5750016749D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA20AE6F1BC4E5750016749D /* Build configuration list for PBXNativeTarget "SNSTests" */ = {
 			isa = XCConfigurationList;
@@ -495,6 +503,7 @@
 				BA20AE711BC4E5750016749D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		BA20AE721BC4E5750016749D /* Build configuration list for PBXNativeTarget "SNSUITests" */ = {
 			isa = XCConfigurationList;
@@ -503,6 +512,7 @@
 				BA20AE741BC4E5750016749D /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
