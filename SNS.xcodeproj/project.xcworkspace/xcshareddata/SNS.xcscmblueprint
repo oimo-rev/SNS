@@ -1,18 +1,20 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++06CCC5D",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB" : 0,
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F" : 0,
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9" : 0
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++214D0EA" : 0,
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++6B27344" : 0,
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++06CCC5D" : 0,
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++5A63ACB" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88DEF57E-B8B1-4616-AA07-FD0DCC5A8A29",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB" : "",
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F" : "SNS\/",
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9" : ""
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++214D0EA" : "",
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++6B27344" : "",
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++06CCC5D" : "zushitomo\/",
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++5A63ACB" : "SNS\/"
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SNS",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -21,17 +23,22 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++06CCC5D"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++214D0EA"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++5A63ACB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++6B27344"
     }
   ]
 }
