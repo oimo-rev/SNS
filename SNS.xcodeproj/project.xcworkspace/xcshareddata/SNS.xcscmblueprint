@@ -1,14 +1,18 @@
 {
-  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C",
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
 
   },
   "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C" : 0
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB" : 0,
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F" : 0,
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9" : 0
   },
   "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "88DEF57E-B8B1-4616-AA07-FD0DCC5A8A29",
   "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
-    "D41F28E871983358581A3E19F5A29EC6FF04E84C" : ""
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB" : "",
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F" : "SNS\/",
+    "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9" : ""
   },
   "DVTSourceControlWorkspaceBlueprintNameKey" : "SNS",
   "DVTSourceControlWorkspaceBlueprintVersion" : 204,
@@ -17,12 +21,17 @@
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++98FB5A9"
     },
     {
       "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
       "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
-      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C"
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++D50B14F"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/zushitomo\/SNS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "D41F28E871983358581A3E19F5A29EC6FF04E84C+++F6996EB"
     }
   ]
 }
