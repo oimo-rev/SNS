@@ -3,6 +3,7 @@
 //  SNS
 //
 //  Created by oimo on 2015/10/07.
+//  thank you.
 //  Copyright © 2015年 FBC. All rights reserved.
 //
 
